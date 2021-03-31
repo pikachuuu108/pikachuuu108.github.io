@@ -34,7 +34,7 @@ timezone: Singapore # see https://en.wikipedia.org/wiki/List_of_tz_database_time
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Henry Luo
+  name      : Henry
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : A boy caught in dreams and fantasies.
