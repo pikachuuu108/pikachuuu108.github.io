@@ -2,7 +2,7 @@ Henry:
   name      : Henry
   url       : 
   avatar    : pic/2019-01-23_223724.jpg
-  bio       : A boy caught in dreams and fantasies.
+  bio       : A gossip talker.
   email     : henryluo108@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -12,6 +12,6 @@ Henry:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : www.linkedin.com/in/huarong-luo # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : huarong-luo # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : pikachuuu108 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
