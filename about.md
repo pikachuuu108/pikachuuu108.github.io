@@ -1,6 +1,6 @@
 不要理会那些平淡，颠簸一下吧？
 
-![](pic/pexels-jeremy-bishop-2397652.jpg)[^1]
+![](pic/pexels-jeremy-bishop-1.jpg)[^1]
 
 
 
